@@ -1,0 +1,28 @@
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+D:\Route\Back-End\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+H:\ABDALRHMAN\2- Back-End\4- Exams\C# Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll

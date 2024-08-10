@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\ABDALRHMAN\\2- Back-End\\4- Exams\\C# Exam\\ExaminationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2410A3-364A-4CB8-9CE1-D5C11D6AAECD}|ExaminationSystem\\ExaminationSystem.csproj|h:\\abdalrhman\\2- back-end\\4- exams\\c# exam\\examinationsystem\\examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2410A3-364A-4CB8-9CE1-D5C11D6AAECD}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2410A3-364A-4CB8-9CE1-D5C11D6AAECD}|ExaminationSystem\\ExaminationSystem.csproj|h:\\abdalrhman\\2- back-end\\4- exams\\c# exam\\examinationsystem\\examinationsystem\\classes\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2410A3-364A-4CB8-9CE1-D5C11D6AAECD}|ExaminationSystem\\ExaminationSystem.csproj|solutionrelative:examinationsystem\\classes\\inputvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputValidation.cs",
+              "DocumentMoniker": "H:\\ABDALRHMAN\\2- Back-End\\4- Exams\\C# Exam\\ExaminationSystem\\ExaminationSystem\\Classes\\InputValidation.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Classes\\InputValidation.cs",
+              "ToolTip": "H:\\ABDALRHMAN\\2- Back-End\\4- Exams\\C# Exam\\ExaminationSystem\\ExaminationSystem\\Classes\\InputValidation.cs",
+              "RelativeToolTip": "ExaminationSystem\\Classes\\InputValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:03:10.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\ABDALRHMAN\\2- Back-End\\4- Exams\\C# Exam\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ExaminationSystem\\Program.cs",
+              "ToolTip": "H:\\ABDALRHMAN\\2- Back-End\\4- Exams\\C# Exam\\ExaminationSystem\\ExaminationSystem\\Program.cs",
+              "RelativeToolTip": "ExaminationSystem\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T10:34:45.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
